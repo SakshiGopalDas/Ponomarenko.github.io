@@ -8,5 +8,5 @@
 
 [Урок 3](http://SakshiGopalDas.github.io/Practic3/ "Центрирование") - Центрирование блока
 
-[Урок 7](http://SakshiGopalDas.github.io/Practic7/ "Центрирование") - Центрирование блока
+[Урок 7](http://SakshiGopalDas.github.io/Practic 7/ "Центрирование") - Центрирование блока
 
